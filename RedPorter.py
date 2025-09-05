@@ -1,3 +1,6 @@
+import colorama
+import socket
+
 choice = input(Fore.RED + """ 
 [1] Single Port scanner
 [2] Multi Port scanner
